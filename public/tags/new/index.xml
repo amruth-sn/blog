@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New on amruthn.com</title>
-    <link>//localhost:1313/tags/new/</link>
+    <link>/tags/new/</link>
     <description>Recent content in New on amruthn.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>file system</title>
-      <link>//localhost:1313/projects/file_system/</link>
+      <link>/projects/file_system/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/file_system/</guid>
+      <guid>/projects/file_system/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
     </item>
   </channel>
