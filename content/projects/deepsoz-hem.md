@@ -1,9 +1,9 @@
 +++
 title = "deepSOZ-HEM"
-date = "2025-04-18"
+date = "2025-02-23"
 layout = "project"
-tags = ["development", "research", "new"]
-project_link = "https://github.com/amruth-sn/file-system"
+tags = ["research", "python", "jupyter notebook", "pytorch"]
+project_link = "https://github.com/amruth-sn/deepsoz-hem"
 href = "source code"
 +++
 

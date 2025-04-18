@@ -2,7 +2,7 @@
 title = "portfolio"
 date = "2025-04-18"
 layout = "project"
-tags = ["development", "research", "new"]
+tags = ["development", "hugo", "markdown"]
 project_link = "https://amruthn.com"
 href = "meta"
 +++

@@ -6,6 +6,7 @@ tags = ["development", "python", "liquibase", "harness", "ci-cd", "snowflake"]
 project_link = "https://www.roomform.ai"
 href = "source code"
 docs = "https://snowflake-docs.vercel.app/en/getting-started"
+readingTime = "6"
 +++
 
 ## overview
@@ -24,7 +25,9 @@ this project exposed me to the inner workings of ci/cd pipelines and cloud-nativ
 
 ## architecture
 
-![snowpilot architecture](/images/snowflake-architecture.png "snowpilot architecture")
+<!-- ![snowpilot architecture](/images/snowflake-architecture.png "snowpilot architecture") -->
+{{< figure src="/images/snowflake-architecture.png" title="snowflake architecture" width="800px" >}}
+
 
 this figure shows the overall architecture of our project, detailing the specific functions of liquibase and harness.
 

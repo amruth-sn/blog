@@ -1,9 +1,9 @@
 +++
 title = "pthreads library"
-date = "2025-04-18"
+date = "2023-11-18"
 layout = "project"
-tags = ["development", "research", "new"]
-project_link = "https://github.com/amruth-sn/file-system"
+tags = ["development", "c"]
+project_link = "https://github.com/amruth-sn/pthread_library"
 href = "source code"
 +++
 

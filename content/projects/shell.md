@@ -1,9 +1,9 @@
 +++
 title = "shell"
-date = "2025-04-18"
+date = "2023-10-02"
 layout = "project"
-tags = ["development", "research", "new"]
-project_link = "https://github.com/amruth-sn/file-system"
+tags = ["development", "c"]
+project_link = "https://github.com/amruth-sn/simple-shell"
 href = "source code"
 +++
 

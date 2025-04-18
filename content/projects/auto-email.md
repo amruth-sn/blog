@@ -1,9 +1,9 @@
 +++
 title = "automated recruiter emails"
-date = "2025-04-18"
+date = "2025-03-23"
 layout = "project"
-tags = ["development", "research", "new"]
-project_link = "https://github.com/amruth-sn/file-system"
+tags = ["development", "python", "playwright"]
+project_link = "https://github.com/amruth-sn/auto-email"
 href = "source code"
 +++
 

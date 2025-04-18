@@ -1,10 +1,10 @@
 +++
 title = "plate calculator"
-date = "2025-04-18"
+date = "2025-02-20"
 layout = "project"
-tags = ["development", "research", "new"]
-project_link = "https://github.com/amruth-sn/file-system"
-href = "source code"
+tags = ["development", "javascript"]
+project_link = "platecalculator.xyz"
+href = "live"
 +++
 
 ## overview
