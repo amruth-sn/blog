@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  
+  <div class="post-meta">
+    {{ if .Params.date }}
+      <span class="post-date">
+        {{ .Date.Format "2006-01-02" }}
+      </span>
+    {{ end }}
+  </div>
+
+  {{ if .Params.tags }}
+    <span class="post-tags">
+      {{ range .Params.tags }}
+        #<a href="{{ (urlize (printf "tags/%s" .)) | absLangURL }}">{{ . }}</a>&nbsp;
+      {{ end }}
+    </span>
+  {{ end }}
+
+  <div class="post-content">
+    {{ if .Params.project_image }}
+      <div class="project-image">
+        <img src="{{ .Params.project_image }}" alt="{{ .Title }} image">
+      </div>
+    {{ end }}
+    
+    {{ if .Params.project_link}}
+      <div class="project-link">
+        <a href="{{ .Params.project_link }}" target="_blank">{{ .Params.href }}</a>
+      </div>
+    {{ end }}
+    
+    <div class="project-description">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+{{ end }} 

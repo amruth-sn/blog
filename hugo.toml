@@ -15,16 +15,16 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "amruthn.com"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -92,18 +92,49 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "amruthn.com"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
+          identifier = "projects"
+          name = "projects"
+          url = "/projects"
+          weight = 1
+          
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          identifier = "roomform"
+          name = "roomform"
+          url = "/projects/roomform"
+          parent = "projects"
+          weight = 1
+          
+        [[languages.en.menu.main]]
+          identifier = "file system"
+          name = "file system"
+          url = "/projects/file_system"
+          parent = "projects"
+          weight = 2
+          
+        [[languages.en.menu.main]]
+          identifier = "other"
+          name = "other"
+          url = "/other"
+          weight = 2
+          
+        [[languages.en.menu.main]]
+          identifier = "fitness"
+          name = "fitness"
+          url = "/other/fitness"
+          parent = "other"
+          weight = 1
+          
+        [[languages.en.menu.main]]
+          identifier = "media"
+          name = "media"
+          url = "/other/media"
+          parent = "other"
+          weight = 2
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
