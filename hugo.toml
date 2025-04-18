@@ -15,7 +15,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 6
+  showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -77,17 +77,17 @@ pagination.pagerSize = 5
     title = "amruthn.com"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
+      subtitle = "amruth niranjan's portfolio page"
+      owner = "amruth niranjan"
+      keywords = "portfolio"
+      copyright = "2025"
+      menuMore = "show more"
+      readMore = "read more"
+      readOtherPosts = "read other posts"
+      newerPosts = "newer posts"
+      olderPosts = "older posts"
+      missingContentMessage = "page not found..."
+      missingBackButtonLabel = "back to home page"
       minuteReadingTime = "min read"
       words = "words"
 
@@ -103,18 +103,105 @@ pagination.pagerSize = 5
           weight = 1
           
         [[languages.en.menu.main]]
-          identifier = "roomform"
-          name = "roomform"
-          url = "/projects/roomform"
+          identifier = "micro"
+          name = "micro"
+          url = "/projects/micro"
           parent = "projects"
           weight = 1
           
+        # Micro projects
         [[languages.en.menu.main]]
-          identifier = "file system"
-          name = "file system"
-          url = "/projects/file_system"
+          identifier = "auto-commit"
+          name = "auto commits"
+          url = "/projects/auto-commit"
+          parent = "micro"
+          weight = 1
+          
+        [[languages.en.menu.main]]
+          identifier = "auto-email"
+          name = "auto email"
+          url = "/projects/auto-email"
+          parent = "micro"
+          weight = 2
+          
+        [[languages.en.menu.main]]
+          identifier = "platecalc"
+          name = "plate calc"
+          url = "/projects/platecalc"
+          parent = "micro"
+          weight = 3
+          
+        [[languages.en.menu.main]]
+          identifier = "minor"
+          name = "minor"
+          url = "/projects/minor"
           parent = "projects"
           weight = 2
+          
+        # Minor projects
+        [[languages.en.menu.main]]
+          identifier = "file_system"
+          name = "file system"
+          url = "/projects/file_system"
+          parent = "minor"
+          weight = 1
+          
+        [[languages.en.menu.main]]
+          identifier = "portfolio"
+          name = "portfolio"
+          url = "/projects/portfolio"
+          parent = "minor"
+          weight = 2
+          
+        [[languages.en.menu.main]]
+          identifier = "pthreads"
+          name = "pthreads"
+          url = "/projects/pthreads"
+          parent = "minor"
+          weight = 3
+          
+        [[languages.en.menu.main]]
+          identifier = "shell"
+          name = "shell"
+          url = "/projects/shell"
+          parent = "minor"
+          weight = 4
+          
+        [[languages.en.menu.main]]
+          identifier = "major"
+          name = "major"
+          url = "/projects/major"
+          parent = "projects"
+          weight = 3
+          
+        # Major projects
+        [[languages.en.menu.main]]
+          identifier = "roomform"
+          name = "roomform"
+          url = "/projects/roomform"
+          parent = "major"
+          weight = 1
+          
+        [[languages.en.menu.main]]
+          identifier = "deepsoz-hem"
+          name = "deepsoz-hem"
+          url = "/projects/deepsoz-hem"
+          parent = "major"
+          weight = 2
+          
+        [[languages.en.menu.main]]
+          identifier = "rightup"
+          name = "rightup"
+          url = "/projects/rightup"
+          parent = "major"
+          weight = 3
+
+        [[languages.en.menu.main]]
+          identifier = "snowpilot"
+          name = "snowpilot"
+          url = "/projects/snowpilot"
+          parent = "major"
+          weight = 4
           
         [[languages.en.menu.main]]
           identifier = "other"

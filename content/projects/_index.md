@@ -2,11 +2,14 @@
 title = "projects"
 +++
 
-# My projects
+# my projects
 
 here you'll find a collection of my personal and professional projects. each project represents different skills, challenges, and learning experiences.
 
-feel free to explore the different projects listed in the navigation menu or below:
+projects are organized into three categories:
 
-- [roomform](/projects/roomform) - Brief description
-- [file system](/projects/file_system) - Brief description 
+- [micro](/projects/micro) projects - small utilities, scripts, etc. for problem-solving
+- [minor](/projects/minor) projects - medium-sized technical projects for a purpose
+- [major](/projects/major) projects - large, complex applications and research projects
+
+feel free to explore the different projects listed in the navigation menu or above :)

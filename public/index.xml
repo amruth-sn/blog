@@ -2,39 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>homepage on amruthn.com</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in homepage on amruthn.com</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>file system</title>
-      <link>/projects/file_system/</link>
+      <title>automated git commits</title>
+      <link>//localhost:1313/projects/auto-commit/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/projects/file_system/</guid>
+      <guid>//localhost:1313/projects/auto-commit/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>automated recruiter emails</title>
+      <link>//localhost:1313/projects/auto-email/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/auto-email/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>fitness</title>
-      <link>/other/fitness/</link>
+      <title>deepSOZ-HEM</title>
+      <link>//localhost:1313/projects/deepsoz-hem/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/other/fitness/</guid>
+      <guid>//localhost:1313/projects/deepsoz-hem/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>file system</title>
+      <link>//localhost:1313/projects/file_system/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/file_system/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>file system</title>
+      <link>//localhost:1313/projects/rightup/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/rightup/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;coming soon&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>fitness</title>
+      <link>//localhost:1313/other/fitness/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/other/fitness/</guid>
       <description>&lt;h1 id=&#34;fitness&#34;&gt;fitness&lt;/h1&gt;&#xA;&lt;p&gt;content coming soon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>media</title>
-      <link>/other/media/</link>
+      <link>//localhost:1313/other/media/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/other/media/</guid>
+      <guid>//localhost:1313/other/media/</guid>
       <description>&lt;h1 id=&#34;media&#34;&gt;media&lt;/h1&gt;&#xA;&lt;p&gt;content coming soon.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>roomform</title>
-      <link>/projects/roomform/</link>
+      <title>plate calculator</title>
+      <link>//localhost:1313/projects/platecalc/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/projects/roomform/</guid>
+      <guid>//localhost:1313/projects/platecalc/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>portfolio</title>
+      <link>//localhost:1313/projects/portfolio/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/portfolio/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>pthreads library</title>
+      <link>//localhost:1313/projects/pthreads/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/pthreads/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>roomform</title>
+      <link>//localhost:1313/projects/roomform/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/roomform/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;This is Project 1, a showcase of my work in this domain. Here I&amp;rsquo;ll describe the challenges, solutions, and outcomes of this project.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project resulted in significant improvements to X, Y, and Z.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>shell</title>
+      <link>//localhost:1313/projects/shell/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/shell/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;Project 2 represents my work in this area. This page describes the project goals, implementation details, and results kwefbiewuf iweufniweuf iuwefiuwefb iwefbiuweyb.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Feature 1&lt;/li&gt;&#xA;&lt;li&gt;Feature 2&lt;/li&gt;&#xA;&lt;li&gt;Feature 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tech&#34;&gt;tech&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technology 1&lt;/li&gt;&#xA;&lt;li&gt;Technology 2&lt;/li&gt;&#xA;&lt;li&gt;Technology 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;results&#34;&gt;results&lt;/h3&gt;&#xA;&lt;p&gt;The project successfully addressed the challenges of A, B, and C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>snowpilot</title>
+      <link>//localhost:1313/projects/snowpilot/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/snowpilot/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;overview&lt;/h2&gt;&#xA;&lt;p&gt;when i worked with state street corporation as a part of Boston University&amp;rsquo;s cloud computing class (ENG EC 528), i built a system to automate resource deployments (orchestrating database migrations) from snowflake over the course 4 months.&lt;/p&gt;&#xA;&lt;p&gt;this project exposed me to the inner workings of ci/cd pipelines and cloud-native deployment, in addition to how database migrations truly work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;stack&#34;&gt;stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;we used python (and pytest) for the backend, because of its easy-to-learn orm structures and its cohesion with liquibase.&lt;/li&gt;&#xA;&lt;li&gt;we used Harness to orchestrate ci/cd pathways and manage deployments.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;architecture&#34;&gt;architecture&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/snowflake-architecture.png&#34; alt=&#34;snowpilot architecture&#34; title=&#34;snowpilot architecture&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

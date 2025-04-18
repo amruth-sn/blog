@@ -8,7 +8,7 @@ layout = "index-with-title"
 
 a window into my brain.
 
-a documentation of my thoughts, sharing what i've learned, and showcasing the [projects](/projects) I've been working on.
+documenting my thoughts, sharing what i've learned, and showcasing the [projects](/projects) I've been working on.
 
 feel free to check out my [other](/other) areas of interest. 
 

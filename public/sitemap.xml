@@ -2,42 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/development/</loc>
+    <loc>//localhost:1313/projects/auto-commit/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/featured/</loc>
+    <loc>//localhost:1313/projects/auto-email/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/file_system/</loc>
+    <loc>//localhost:1313/projects/deepsoz-hem/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/other/fitness/</loc>
+    <loc>//localhost:1313/tags/development/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/tags/featured/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/other/media/</loc>
+    <loc>//localhost:1313/projects/file_system/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/new/</loc>
+    <loc>//localhost:1313/projects/rightup/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/other/</loc>
+    <loc>//localhost:1313/other/fitness/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/research/</loc>
+    <loc>//localhost:1313/projects/major/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/roomform/</loc>
+    <loc>//localhost:1313/other/media/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/projects/micro/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/projects/minor/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/new/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/other/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/platecalc/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/portfolio/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/pthreads/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/research/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/roomform/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/shell/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ci-cd/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/harness/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/liquibase/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/python/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/snowflake/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/snowpilot/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>

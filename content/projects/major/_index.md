@@ -1,0 +1,15 @@
++++
+title = "major projects"
+date = "2025-04-18"
++++
+
+# major projects
+
+these are my largest and most significant projects, which have taken somewhere on the order of months:
+
+- [roomform](/projects/roomform) - ai-powered interior design
+- [deepsoz-hem](/projects/deepsoz-hem) - epileptic seizure detection
+- [snowpilot](/projects/snowpilot) - automated snowflake resource deployments 
+- [rightup](/projects/rightup) - agentic readme.md generator 
+
+more of these coming soon!

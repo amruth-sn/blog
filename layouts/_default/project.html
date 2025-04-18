@@ -28,8 +28,17 @@
     {{ if .Params.project_link}}
       <div class="project-link">
         <a href="{{ .Params.project_link }}" target="_blank">{{ .Params.href }}</a>
+      
+        {{ if .Params.docs}}
+        <br>
+        <a href="{{ .Params.docs }}" target="_blank">docs</a>
+      {{ end }}
+      
       </div>
+      
     {{ end }}
+
+    
     
     <div class="project-description">
       {{ .Content }}
